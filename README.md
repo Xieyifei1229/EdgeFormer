@@ -5,7 +5,7 @@
 
 ![EdgeFormer Architecture](./figures/EdgeFormer%20Architecture.png)
 
-## Dependency
+## Environments
 - PCL 1.8.1
 - Python 3.7.16
 - Pytorch 1.8.1
